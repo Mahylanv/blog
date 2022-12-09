@@ -1,0 +1,15 @@
+body {
+    min-height: 75rem;
+    padding-top: 4.5rem;
+  }
+* {    
+    font-family: 'Roboto', sans-serif;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Playfair Display', serif;
+}
+
+td,th {padding: 10px; border: 1px solid;}
+th {background-color: mediumaquamarine;}
+td {background-color: #B1FFEA;}
+table {width: 100%; border-collapse: collapse;}
